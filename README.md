@@ -1,5 +1,4 @@
 - ✌️ hello hi, I’m @katzenfan4 or jojsen and I'm 19yo
-- 
 - 🌱 I’m currently learning SpringBoot and database stuffs
 - 👻 Pronouns: he/they
 - 🤯 Fun fact: I love cats (shocker)
